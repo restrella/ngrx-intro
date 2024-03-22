@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "SleepWalker",
+      "author": "Stephen King"
+    },
+    {
+      "id": 2,
+      "title": "Inferno",
+      "author": "Dan Brown"
+    }
+  ]
+}
